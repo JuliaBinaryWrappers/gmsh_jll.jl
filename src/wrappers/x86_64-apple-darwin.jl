@@ -13,7 +13,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libgmsh,
-        "lib/libgmsh.4.8.0.dylib",
+        "lib/libgmsh.4.8.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
