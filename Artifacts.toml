@@ -1,288 +1,288 @@
 [[gmsh]]
 arch = "aarch64"
-git-tree-sha1 = "e6e1bf9f68d95151bec1eece1ed6eac62c49e88e"
+git-tree-sha1 = "041023a8fe1d9f2a5f5949ec0682e53deb2258d5"
 os = "macos"
 
     [[gmsh.download]]
-    sha256 = "b7ffaea0fe6f348270bf6a5235bdd80fb0a6beedb6d7954b564cb02c25c60e55"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "252dadf0191307df449104d61b856c5cd1e901aa15f04be29fdaa922b398f174"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.aarch64-apple-darwin.tar.gz"
 [[gmsh]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f1be0bfe461ee8be81267c6ace625cfd08513dd9"
+git-tree-sha1 = "1ac6fdcbe491869b0763d2bf51421ae0d3fcfc31"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "d84ffec72e2881149720690b74c2be8615e40d1adda22e6dbf5f3677aab84e93"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "d671522f81abaf3933a5306bb3c1f61ad5a8eb1ef3fed3443c354abc6318d218"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[gmsh]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fbc4f55654a7954f82d4bfea82ab128383c96766"
+git-tree-sha1 = "6777da775d5bb95e0faa1a27ee60c20521b4b5c7"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "98910fc5776de06f3736aac44cf8cd440ea2af3bf56666870caa26fc618d2dc0"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "cbb753129a804acd6d9d7e243dfbaaf8a8ee8cee885499234d24b316c3c7cacf"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[gmsh]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "adabbfc2aa411bdf886de62c6eb7cfa3eec2d231"
+git-tree-sha1 = "8c6495a1e0415218eb67fb43fc85a3355d545b0a"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "685e4da4523fa2c91b3109ee5be1714f6c68f1c5c6455ed302eeef5b3330f634"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "c662bce4eb33c3e735334a6caf93fb943d79d1b9bc479d4e81d04fd91f42ffd3"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.aarch64-linux-musl-cxx03.tar.gz"
 [[gmsh]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a1a234604b3c1eafd10e604a524834e8abd6be8"
+git-tree-sha1 = "003471974ce5c3eebb472c431863437cfba173f2"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "f602bec7bff3dac092596516fa17f5662124831558402bdd2d98008e97e1dacd"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "2f6f37550117a03590d2a463f6457937a946500769d675b0cd95635f78dc7ce5"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.aarch64-linux-musl-cxx11.tar.gz"
 [[gmsh]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "33428ddbf0a2b6ca5ab24f6ef24749532f5722ce"
+git-tree-sha1 = "9ef8ff242973554e79e3bf2c98da30e51d3ef648"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "acafdeba3690b6c85c9956e4b124c4b40fedc40f46d6ca228fda5563d115f0fd"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "510ba528dcd34e527815e8a4e9b95a9fa14c1c6b6806ee694f3b8f1e200aea05"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[gmsh]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7059294523dcbb1f8b44c7ea70d95b8a3315ad51"
+git-tree-sha1 = "e740180fc5da7b3b745ace970c9a8e94166189c6"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "5815ff35391af4811efa95640cf2570f1e84269716caed80b25dfa8cb1e1f93f"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "95c5abf569b0b1212c47e2f54c2346e85c0726d3453133b66edb8b840f3d7a0f"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[gmsh]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6ebd2f72c54d754410fef3117c88ff12b2f4ab47"
+git-tree-sha1 = "7d171a22176576a5ed56ba0e0f60ddf12c19b20f"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "b686f3248005f8a30434360870ab3006b9c38047ac33ba0effdb9126ad9bf19b"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "605d2f8facaa2962f82bd33d57bba8ba5c6a99711e4b6baf1bbedbc48696ca1a"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[gmsh]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e3ee9d81cced09147daa938ce0a9c4fbd3a56e3"
+git-tree-sha1 = "fa072e1e1551a9648d94da4ad9fc0d116bf73a41"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "b2095aedeafb81cf5fd70ec3e87901750758ad2317ccc2a9cf1fdc64fb8894f1"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "00e50ac71f0a3d91a3612af304aa67e8908b62e0d5c2593f5a8cfa964783840f"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[gmsh]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4b8ffd06928ec4b5c6ca70a2724e094b54a7c320"
+git-tree-sha1 = "f2ee0c7c9627b29367eb0148536fd85f2e626357"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "a5690949618c8fdbc5b2d6e84444b344edb26aedacb4533cdf312b7fe83c5096"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f73166d83de687dd07b107f42ad8dfb50389cf1b1cd0d6c4fe45879e60b7080f"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[gmsh]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f838d84bf24941a2e61621e8bf7075c53451d0a0"
+git-tree-sha1 = "aa6e1c1fb2115af61372611c084a5919847a2097"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "967d117d7900a4daa47c18f5650b02144be62bc9d194553c57984ed3b8e5a1be"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "df42790e98e9bc80ffd9dbbdbf3b669e24f05ed9e8e8f26ec7672335d628694f"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[gmsh]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "41cb4c1e509f070b83220419b9e40b3fd40bdf4f"
+git-tree-sha1 = "60f0e3de4d7dac2511ff51e407631e877372c3b0"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "2180e0b3a9e96950d590f6d201bd53c5c4f2f8f9efd36e0597081436fd43ecb7"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "a697123b8ba3d7126edb738c02036e580e6853538277c6716470ea94b4b4adb6"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[gmsh]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d7f5ed460e78d602fcfaa32fa76efa3710b783b7"
+git-tree-sha1 = "8eb10284a01ca9dfc0a4e502e546ee8c0758a245"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "ce88e0fbd522c8f0090c15ec9e21539e9ab6a1dcc3af7bd36d16f296993b6822"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "49f02143087d01606b97eac97a17f90670f60db0aa0dbfd6533235f2bf84d8db"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[gmsh]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7fc79cdf76f58fc0d91cfcf955ee886b48b8dc15"
+git-tree-sha1 = "e72afe777a646e85d83449981b601f4fe5f241de"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "09a750fdf197be9c53717b3fcc79adb38d0b024e90fc5c1cd17484612d50d444"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "89f36dc1f24d764021bb3373b3aa6df51d4ed115411b1a06528e6c703f688cb6"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.i686-linux-gnu-cxx03.tar.gz"
 [[gmsh]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f082d827a902e77a9353a9b51e94d67ce339e22"
+git-tree-sha1 = "7e6771db0067f58e0cfa214db2b254bb959e4f42"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "626ae66252b7d2c536f177cd14cdc59edd60ba1f11794c744a9d0f6ac9b0f791"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "a0f1215dc25761b5c95d8a597e3de09fe1b10ff6fb0a2a2fd9540f92a3d235f7"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.i686-linux-gnu-cxx11.tar.gz"
 [[gmsh]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a059876edc62574fd9ab7c6be4b88fffd4b9fb3d"
+git-tree-sha1 = "2d9a69221ac6a76aae0976eb64378212f00db4f3"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "0d8a7ead3cb63662414e2c7a6154170e6acfa00f70b6448c37440ea2ae13a557"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "87e69c622afea353dab9bf7258690b8edd355d28f75ab9e6a50451839a97e001"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.i686-linux-musl-cxx03.tar.gz"
 [[gmsh]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d3c8818fc7b24aed20690e0b75f004cce8011e86"
+git-tree-sha1 = "858eb30071bb847c24652641114c83cb10c2d178"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "9e1232a2ec0690c1a1ec3f3013ecc54c3b18d964c8bb4da5dd11c0e4ec889132"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "61690f03651d77a7da40e2d2b53056a3c02d60bb166c0ad9c33af00a08009e5a"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.i686-linux-musl-cxx11.tar.gz"
 [[gmsh]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c06854b98f21015b37cfe328659947d0fcf38c3d"
+git-tree-sha1 = "d47c579fbd24cb140a6e908f1bb1aa7871881532"
 os = "windows"
 
     [[gmsh.download]]
-    sha256 = "d0f3772fe70f57ccddd9b98531519868a3fe90417ce1cde21e7830ebacc60e29"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "7671b32248cfa70f1b283acdb67e59db96c02f423ade52793637e8002c3a9365"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.i686-w64-mingw32-cxx03.tar.gz"
 [[gmsh]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "25a8b53cb903f7e63c06b06a2061f51d5ebd169e"
+git-tree-sha1 = "ed8ccbdb9feef875e819667903e54ac18f37a0e8"
 os = "windows"
 
     [[gmsh.download]]
-    sha256 = "c53d65558affc1035ee68ec16003341ada890bc17272ed9c9a0a60d8332ae488"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8c0096635e2f423e4b687db1cf0b61abbda90814cf2047860d870e47339f9691"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.i686-w64-mingw32-cxx11.tar.gz"
 [[gmsh]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fd24d3c343f1383cd209f04049676e8f5a3cecb6"
+git-tree-sha1 = "07adb4682310c25a00b2f1d2d75b31e2999ff696"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "1bfbc0b94f151e3af06fe92d0acc39ef141269afdf7f6fe9d52ca4db8dfe3370"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "71187d5e466cdd2e8a5b9690d4d949f1aff098fc117ecb4da21b9a5fe63d6cc1"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[gmsh]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "563f5d45c275f35f1718ce466893cabe6a05590b"
+git-tree-sha1 = "fd573b54911db4b08e208f2ec6f586cba8c1f629"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "b282b4bb3e96428340fcaf5487a0478183775418cad4556fe4885096eb6eb674"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "0c6feff845726039ad2108c2d2b5dd4ba141b3fb9f4d41d62a76eb67cff26f02"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[gmsh]]
 arch = "x86_64"
-git-tree-sha1 = "c5920613b6a14bf38c637a9a476b9c8c740a2c2c"
+git-tree-sha1 = "63a73bd512063bf7a8387e9b416cbb969b9ae48c"
 os = "macos"
 
     [[gmsh.download]]
-    sha256 = "8e5b6f98fd7fa0db2d489d91021c120ff6cb990bc0af2dd4ade69d97dff02da3"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "fa8ec71895504247a8237cfd6814fcd1392527c139c5c92590e6083c656c0ea7"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-apple-darwin.tar.gz"
 [[gmsh]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "44a34c22959d3790864fbf19a7c7a8170eb0b9a9"
+git-tree-sha1 = "1fc922241eef4fd6d52d42563426bef545d5ef9d"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "b2c32d297d128b885a4ce8cdec28e938e75749db4e7634db1e40223dcf2d3a09"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c43e3a7f2d5d941f846213919a08313248632b07f56a6344136f59290cfe4d80"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[gmsh]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "acc08cbdc45112b860952609dbd1c573907a81bd"
+git-tree-sha1 = "48f681ec04b6ed4aad46a56b1e6dc4bf716585f1"
 libc = "glibc"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "c73d56b937a24e2e73427f193f243af58e099e570db468caa0ab0fb9f83aa315"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0c26cabef278af366716fb0a03e1961484c35c4138ebf5217c0703c7aa2299eb"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[gmsh]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2df5ffe20d5d062dc12c6f592b35e97da60c73dc"
+git-tree-sha1 = "63b78d07442c60bd151450f1a276d0ae30dcf5c2"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "581b938b61cdeb250b711427cc3a6ff9caaa503871c5fb16eac5499badfcca62"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "12384f56856daf7624c1cbf1a6a11ac1f462bd2dfceea98849edd7fe3e2e7007"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-linux-musl-cxx03.tar.gz"
 [[gmsh]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "93c02056763ea3cc73da65fcce5042c470c236d0"
+git-tree-sha1 = "16b7eca23d0eb3bd69cc01c6cc396a40fe39100a"
 libc = "musl"
 os = "linux"
 
     [[gmsh.download]]
-    sha256 = "cd01dd79d95663a65bebe1310d6ab71a7b0479c442e52ee830344cd2baac09c9"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "363e8ec6a5ba525176781fbdcaaa1a2cb7862531ba82048a043a3f81dc642faf"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-linux-musl-cxx11.tar.gz"
 [[gmsh]]
 arch = "x86_64"
-git-tree-sha1 = "7f48e749fda59a35704bc6fce6594730553f9698"
+git-tree-sha1 = "ec92075ecb301c7d4f42a3b3b530c6287a269bc1"
 os = "freebsd"
 
     [[gmsh.download]]
-    sha256 = "00d20db50b63dc69dc6754bb5e0672f2deb70174f46a11f44c1e46ddee2b7f61"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "917ddce89ddeda3f4289367322e41e5015fa9f59d07e32afd163abf222e9adee"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-unknown-freebsd.tar.gz"
 [[gmsh]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "296dddc70c3864b31bd445259b6ec777300c9d0b"
+git-tree-sha1 = "1c18c60fa7f486a924129c92603606c6b1c3a060"
 os = "windows"
 
     [[gmsh.download]]
-    sha256 = "a59d8bed7334d1a49a84368cd3d986e0b97df9f2585256c744f8ba62bda43729"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "948748afe18874db6ee38b399e20f9fbff10a36c811ede03b8fc633a1a732d78"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-w64-mingw32-cxx03.tar.gz"
 [[gmsh]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d5923dc99ef26615ddf7fccb272fcd1f65c1c9a9"
+git-tree-sha1 = "25ba69eb779f5d4f84824aa02f959b0055c0a7a1"
 os = "windows"
 
     [[gmsh.download]]
-    sha256 = "03c06881f2fb7688772ce6467e65a0d09ff68829f6a5f5e32c6a99c072c01a7d"
-    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.11.1+0/gmsh.v4.11.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b004e3bc63542eeabcd2d948ba1ef1c4cac2e2e114051713d1bb97f0b04312fc"
+    url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.12.2+0/gmsh.v4.12.2.x86_64-w64-mingw32-cxx11.tar.gz"
