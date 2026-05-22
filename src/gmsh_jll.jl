@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("gmsh")
-JLLWrappers.@generate_main_file("gmsh", UUID("630162c2-fc9b-58b3-9910-8442a8a132e6"))
+JLLWrappers.@generate_main_file("gmsh", Base.UUID("630162c2-fc9b-58b3-9910-8442a8a132e6"))
 end  # module gmsh_jll
