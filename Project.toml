@@ -30,7 +30,7 @@ GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
 
 [compat]
 Libdl = "< 0.0.1, 1"
-julia = "1.6"
+julia = "1.10"
 JLLWrappers = "1.7.0"
 HDF5_jll = "2.2.1"
 FreeType2_jll = "2.13.4"

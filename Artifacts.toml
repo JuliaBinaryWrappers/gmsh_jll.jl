@@ -101,11 +101,11 @@ os = "linux"
 [[gmsh]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0c75a1eb9d1cb664348c79360574311472661008"
+git-tree-sha1 = "e5cf5d4e5045f105aa0e8a716581b7df543b9a43"
 os = "windows"
 
     [[gmsh.download]]
-    sha256 = "43e596e06738730a409a2d351fa58d49e5515526a932b53a850f9accce52a2e4"
+    sha256 = "dddbcdab430ecbcbccd13f411585c228fd7f09a27bda91415aea1cca7d7a5665"
     url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.15.3+0/gmsh.v4.15.3.i686-w64-mingw32-cxx11.tar.gz"
 [[gmsh]]
 arch = "powerpc64le"
@@ -166,9 +166,9 @@ os = "freebsd"
 [[gmsh]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fcb3ac89fe981e1146b049826eb7ab1062edf58e"
+git-tree-sha1 = "7da8117c84b39edfc5a015305f61db6df56ea065"
 os = "windows"
 
     [[gmsh.download]]
-    sha256 = "5eb21d34652f4c27c5532f541c502efa9f176951aed9b30061aa9f1e58f53d26"
+    sha256 = "7bc6972b47181cb3e2a38fa9577b5653972019054164834d38dca98308842ec0"
     url = "https://github.com/JuliaBinaryWrappers/gmsh_jll.jl/releases/download/gmsh-v4.15.3+0/gmsh.v4.15.3.x86_64-w64-mingw32-cxx11.tar.gz"
